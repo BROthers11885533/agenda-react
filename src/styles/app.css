@@ -1,0 +1,9 @@
+span {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+nav {
+    width: 100%;
+}
